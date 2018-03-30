@@ -1,0 +1,14 @@
+{
+  "Assist-mit-einem-Poti": {
+    "author": "Thorn",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/Thorn133/Bilder2/master/Thorn.jpg",
+    "description": "https://raw.githubusercontent.com/Thorn133/Bild1/master/Beschreibung.Readme.md",
+    "sourceFile": [
+      "https://raw.githubusercontent.com/Thorn133/Assist-mit-einem-Poti/master/Assist.lua"
+    ],
+    "destinationPath": [
+      "/Apps"
+    ]
+  }
+}	
