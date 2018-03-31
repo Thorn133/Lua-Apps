@@ -1,5 +1,4 @@
-{
-  "Assist-mit-einem-Poti": {
+ "Assist-mit-einem-Poti": {
     "author": "Thorn",
     "version": "1.0",
     "previewImg": "https://raw.githubusercontent.com/Thorn133/Bilder2/master/Thorn.jpg",
@@ -11,4 +10,24 @@
       "/Apps"
     ]
   }
-}	
+	 "Autopilot": {
+    "author": "Thorn",
+    "version": "1.0",
+    "previewImg": "https://raw.githubusercontent.com/Thorn133/Bilder2/master/Thorn.jpg",
+    "description": "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Beschreibung.Readme.md",
+    "requiredFirmware": 4.22,
+    "sourceFile": [
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot.lc",
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Autopilot/locale.jsn",
+			"https://raw.githubusercontent.com/Thorn133/Autopilot/master/Auto_Lehr.wav",
+      "https://raw.githubusercontent.com/Thorn133/Autopilot/master/Auto_Schue.wav"
+		],
+    "destinationPath": [
+      "/Apps",
+      "/Apps/Autopilot",
+		  "/Apps/Autopilot/",
+			"/Apps/Auto_",
+			"/Apps/Auto_"
+    ]
+	}
+}		
